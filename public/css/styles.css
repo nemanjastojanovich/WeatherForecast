@@ -12,3 +12,7 @@ body {
 .prognoza {
   margin: 400px auto;
 }
+#cityInput {
+  height: 50px;
+  font-size: 25px;
+}
